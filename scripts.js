@@ -4,7 +4,10 @@
 
 $(document).ready(function(){ 
 
-$(function(){
+setTimeout(
+  function() 
+  {
+    $(function(){
       $(".element").typed({
         strings: ["Hi Murwe Hi Murwe Hi Murwe "],
         typeSpeed: 0
@@ -209,3 +212,5 @@ var initParticleSlider = function() {
 
 (window.addEventListener ? window.addEventListener('load', initParticleSlider, false) : window.onload = initParticleSlider);
 }) 
+  }, 5000);
+
