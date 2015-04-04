@@ -19,7 +19,7 @@ $(function(){
 
 setTimeout(function() {
     $(".typed-text").remove();
-}, 4000)
+}, 5000)
 
 
 
