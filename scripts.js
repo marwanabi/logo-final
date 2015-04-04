@@ -15,9 +15,9 @@ $(function(){
 
 
 
-setTimeout(function() {
+/*setTimeout(function() {
     $(".typed-text").remove();
-}, 3000)
+}, 3000)*/
 
 
 
@@ -26,7 +26,7 @@ setTimeout(function() {
 
 setTimeout(function() {
     $("#particle-slider").css('position', 'absolute');
-}, 2999.9)
+}, 3999.9)
 
 
 

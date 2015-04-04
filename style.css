@@ -55,10 +55,10 @@ body {
     width: 100%;
     text-align: center;
     color: transparent;
-    -webkit-animation: blurFadeInOut 3s ease-in backwards;
-    -moz-animation: blurFadeInOut 3s ease-in backwards;
-    -ms-animation: blurFadeInOut 3s ease-in backwards;
-    animation: blurFadeInOut 3s ease-in backwards;
+    -webkit-animation: blurFadeInOut 4s ease-in backwards;
+    -moz-animation: blurFadeInOut 4s ease-in backwards;
+    -ms-animation: blurFadeInOut 4s ease-in backwards;
+    animation: blurFadeInOut 4s ease-in backwards;
 }
 
 
