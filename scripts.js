@@ -17,9 +17,9 @@ $(function(){
 
 
 
-/*setTimeout(function() {
+setTimeout(function() {
     $(".typed-text").remove();
-}, 3000)*/
+}, 3000)
 
 
 
