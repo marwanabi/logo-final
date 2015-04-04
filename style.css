@@ -65,7 +65,7 @@ body {
 /*if you want to delay the animation*/
 
 p .element {
-    -webkit-animation-delay: 0s;
+    -webkit-animation-delay: 2s;
     -moz-animation-delay: 0s;
     -ms-animation-delay: 0s;
     animation-delay: 0s;
