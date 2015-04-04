@@ -28,7 +28,7 @@ setTimeout(function() {
     $("#particle-slider").css('position', 'absolute');
 }, 2999.9)
 
-}) 
+
 
 
 //--star animation
@@ -208,3 +208,4 @@ var initParticleSlider = function() {
 }
 
 (window.addEventListener ? window.addEventListener('load', initParticleSlider, false) : window.onload = initParticleSlider);
+}) 
