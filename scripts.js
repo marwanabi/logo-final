@@ -4,11 +4,7 @@
 
 $(document).ready(function(){ 
 
-setTimeout(
-  function() 
-  {
-    //do something special
-  }, 5000);
+
 
 $(function(){
       $(".element").typed({
